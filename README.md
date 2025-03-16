@@ -27,3 +27,6 @@ FreshMeal is a modern and engaging restaurant website designed to offer a seamle
 Check out the demo video below to see the website in action:  
 
 [Demo Video](./restaurant_wesite.mp4)  
+
+
+![Home Page](./website.png) 
